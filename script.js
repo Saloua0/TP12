@@ -38,6 +38,12 @@ var models = [
         rotation: '0 180 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
+    {
+        url: './assets/mick/scene.gltf',
+        scale: '0.05 0.05 0.05', // Échelle réduite
+        rotation: '0 180 0',
+        info: 'Dragonite, Lv. 99, HP 150/150',
+    },
 ];
 
 var modelIndex = 0;
