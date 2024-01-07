@@ -39,10 +39,22 @@ var models = [
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
     {
-        url: './assets/mick/scene.gltf',
+        url: './assets/object1/scene.gltf',
         scale: '0.3 0.3 0.3', // Échelle réduite
         rotation: '0 180 0',
-        info: 'mick',
+        info: 'object1',
+    },
+    {
+        url: './assets/object2/scene.gltf',
+        scale: '0.3 0.3 0.3', // Échelle réduite
+        rotation: '0 180 0',
+        info: 'object2',
+    },
+    {
+        url: './assets/object3/scene.gltf',
+        scale: '0.3 0.3 0.3', // Échelle réduite
+        rotation: '0 180 0',
+        info: 'object3',
     },
 ];
 
