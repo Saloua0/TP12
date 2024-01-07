@@ -12,19 +12,23 @@
 }
 
 button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 2px solid white;
-    background-color: transparent;
-    width: 2em;
-    height: 2em;
-    border-radius: 100%;
-    font-size: 2em;
-    background-color: rgba(0, 0, 0, 0.4);
+    display: inline-block; 
+    padding: 10px 20px;
+    border: 2px solid #3498db; 
+    background-color: #3498db; 
     color: white;
+    border-radius: 5px;
+    font-size: 1.5em; 
+    cursor: pointer; 
     outline: none;
+    transition: background-color 0.3s, color 0.3s; 
 }
+
+button:hover {
+    background-color: #2980b9; 
+    color: #ecf0f1; 
+}
+
 
 .instructions {
     position: fixed;
