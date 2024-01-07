@@ -1,0 +1,11 @@
+Model Information:
+* title:	【DL】ZweiII  - ルゥ Ruu
+* source:	https://sketchfab.com/3d-models/dlzweiii-ruu-04b5dfb9bc0645dfbcc34b61dd49bff1
+* author:	NilcatStudio (https://sketchfab.com/NILCAT)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "【DL】ZweiII  - ルゥ Ruu" (https://sketchfab.com/3d-models/dlzweiii-ruu-04b5dfb9bc0645dfbcc34b61dd49bff1) by NilcatStudio (https://sketchfab.com/NILCAT) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
