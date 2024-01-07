@@ -40,9 +40,9 @@ var models = [
     },
     {
         url: './assets/mick/scene.gltf',
-        scale: '0.05 0.05 0.05', // Échelle réduite
+        scale: '0.3 0.3 0.3', // Échelle réduite
         rotation: '0 180 0',
-        info: 'mick, Lv. 99, HP 150/150',
+        info: 'mick',
     },
 ];
 
